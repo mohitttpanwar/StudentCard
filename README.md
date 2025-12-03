@@ -20,7 +20,7 @@ Create a React component called `StudentCard` that accepts the following props:
 * `course`
 * `score`
 
-Then render **three different StudentCard components** inside `App.js` with different values.
+Then render **three different StudentCard components** inside `1app.js` with different values.
 
 ---
 
@@ -41,7 +41,7 @@ The input value is stored and displayed using the `useState` hook.
 ```
 src/
 │
-├── App.js
+├── 1app.js
 ├── StudentCard.js
 ├── SimpleForm.js
 └── index.js
@@ -151,7 +151,7 @@ export default SimpleForm;
 
 ---
 
-#### ✅ `App.js`
+#### ✅ `1app.js`
 
 ```js
 import StudentCard from "./StudentCard";
